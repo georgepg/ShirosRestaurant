@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "620033238122",
+    "firebase_url": "https://shiro-s-restaurant.firebaseio.com",
+    "project_id": "shiro-s-restaurant",
+    "storage_bucket": "shiro-s-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620033238122:android:1a81e1c717417868fb1613",
+        "android_client_info": {
+          "package_name": "com.example.shirosrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620033238122-9rgrrl1pejge2cc3l3vulfn0ku970chf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ5MXz61Gjo4hHx8jGvnrDcJbPP_ECaqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620033238122-9rgrrl1pejge2cc3l3vulfn0ku970chf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
